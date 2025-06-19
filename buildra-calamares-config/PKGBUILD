@@ -1,13 +1,13 @@
 # Maintainer: Erik Dubois <erik.dubois@gmail.com>
-pkgname=kiro-calamares-config
-_pkgname=kiro-calamares-config
+pkgname=buildra-calamares-config
+_pkgname=buildra-calamares-config
 _destname1="/etc"
 _destnamescript="/usr/bin"
-pkgver=25.05
-pkgrel=17
-pkgdesc="calamares config for kiro"
+pkgver=25.06
+pkgrel=04
+pkgdesc="calamares config for buildra"
 arch=('any')
-url="https://github.com/kirodubes/${_pkgname}"
+url="https://github.com/buildra/${_pkgname}"
 license=('GPL3')
 makedepends=('git')
 depends=()
@@ -20,5 +20,4 @@ package() {
 	mkdir -p "${pkgdir}${_destname1}"
 	cp -r "${srcdir}/${_pkgname}/${_destname1}"* "${pkgdir}"
 	mkdir -p "${pkgdir}${_destnamescript}"
-	cp -r "${srcdir}/${_pkgname}/etc/calamares/pkgbuild/build-calamares" "${pkgdir}${_destnamescript}"
 }

@@ -1,12 +1,12 @@
 [Desktop Entry]
 Type=Application
 Version=1.0
-Name=Install ArcoLinux Debug
-Comment=Installer for ArcoLinux debug
+Name=Install buildra
+Comment=Installer for buildra
 GenericName=System Installer
 Keywords=calamares;system;installer;
-TryExec=/usr/bin/calamares_polkit %f -d -style breeze
-Exec=/usr/bin/calamares_polkit %f -d -style breeze
+TryExec=/usr/bin/calamares_polkit %f -style breeze
+Exec=/usr/bin/calamares_polkit %f -style breeze
 Icon=calamares
 Terminal=false
 Type=Application
