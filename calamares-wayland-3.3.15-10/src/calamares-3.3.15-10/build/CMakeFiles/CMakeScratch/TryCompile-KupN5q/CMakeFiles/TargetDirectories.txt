@@ -1,3 +1,0 @@
-/home/erik/BUILDRA/buildra-pkgbuild/calamares-wayland-3.3.15-10/src/calamares-3.3.15-10/build/CMakeFiles/CMakeScratch/TryCompile-KupN5q/CMakeFiles/cmTC_b79ca.dir
-/home/erik/BUILDRA/buildra-pkgbuild/calamares-wayland-3.3.15-10/src/calamares-3.3.15-10/build/CMakeFiles/CMakeScratch/TryCompile-KupN5q/CMakeFiles/edit_cache.dir
-/home/erik/BUILDRA/buildra-pkgbuild/calamares-wayland-3.3.15-10/src/calamares-3.3.15-10/build/CMakeFiles/CMakeScratch/TryCompile-KupN5q/CMakeFiles/rebuild_cache.dir
