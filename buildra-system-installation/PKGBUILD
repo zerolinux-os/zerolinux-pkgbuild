@@ -1,13 +1,13 @@
-# Maintainer: Erik Dubois <erik.dubois@gmail.com>
-pkgname=buildra-system-installation
-_pkgname=buildra-system-installation
+# Maintainer: Zero7x <zerolinux.os@gmail.com>
+pkgname=zerolinux-system-installation
+_pkgname=zerolinux-system-installation
 _destname1="/etc"
 _destname2="/usr"
 pkgver=25.06
 pkgrel=03
-pkgdesc="system installation config for buildra"
+pkgdesc="system installation config for zerolinux-os"
 arch=('any')
-url="https://github.com/buildra/${_pkgname}"
+url="https://github.com/zerolinux-os/${_pkgname}"
 license=('GPL3')
 makedepends=('git')
 depends=()

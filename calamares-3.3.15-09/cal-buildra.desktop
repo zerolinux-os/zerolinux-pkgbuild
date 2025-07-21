@@ -1,8 +1,8 @@
 [Desktop Entry]
 Type=Application
 Version=1.0
-Name=Install buildra
-Comment=Installer for buildra
+Name=Install zerolinux
+Comment=Installer for zerolinux
 GenericName=System Installer
 Keywords=calamares;system;installer;
 TryExec=/usr/bin/calamares_polkit %f -style breeze
